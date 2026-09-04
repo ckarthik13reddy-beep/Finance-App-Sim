@@ -1,5 +1,8 @@
 {
+<<<<<<< HEAD
   "/_not-found/page": "app/_not-found/page.js",
   "/api/simulation/route": "app/api/simulation/route.js",
+=======
+>>>>>>> 6156873 (model change)
   "/page": "app/page.js"
 }
